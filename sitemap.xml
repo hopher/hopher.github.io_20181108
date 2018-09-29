@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hopher.github.io/post/201809/29/hello-word/</loc>
+    <lastmod>2018-09-29T08:29:21+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hopher.github.io/post/my-first-post/</loc>
     <lastmod>2018-09-29T08:29:21+00:00</lastmod>
     <changefreq>weekly</changefreq>

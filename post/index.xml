@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Hello world</title>
+      <link>https://hopher.github.io/post/201809/29/hello-word/</link>
+      <pubDate>Sat, 29 Sep 2018 08:29:21 +0000</pubDate>
+      
+      <guid>https://hopher.github.io/post/201809/29/hello-word/</guid>
+      <description> Golang  package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello world&amp;quot;) }  PHP echo &amp;quot;Hello world&amp;quot;;  </description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
       <link>https://hopher.github.io/post/my-first-post/</link>
       <pubDate>Sat, 29 Sep 2018 08:29:21 +0000</pubDate>
