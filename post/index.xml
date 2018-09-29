@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hopher&#39;s Blog</title>
+    <link>https://hopher.github.io/post/</link>
+    <description>Recent content in Posts on Hopher&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 29 Sep 2018 08:29:21 +0000</lastBuildDate>
+    
+	<atom:link href="https://hopher.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://hopher.github.io/post/my-first-post/</link>
+      <pubDate>Sat, 29 Sep 2018 08:29:21 +0000</pubDate>
+      
+      <guid>https://hopher.github.io/post/my-first-post/</guid>
+      <description> Golang  package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;Hello world&amp;quot;) }  PHP echo &amp;quot;Hello world&amp;quot;;  </description>
+    </item>
+    
+  </channel>
+</rss>
